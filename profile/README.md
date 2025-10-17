@@ -32,3 +32,8 @@ All Sprint 0 deliverables are available on our private Confluence space. Click o
 
 - [Sprint 0 Project Proposal & Worksheet](https://jordonhong.atlassian.net/wiki/spaces/qdog/pages/10158159/Sprint+0+Hub?atlOrigin=eyJpIjoiZDhjNWYzYjJjZDQzNDhhN2I4MmFjOGZiZGE3MzUwN2EiLCJwIjoiYyJ9)
 - [Link to slides](https://www.figma.com/deck/SVXDUyXp4JtoTR8rG2OxHg/QDog-Product-Pitch?node-id=1-37&t=Mlbl4aSf43FQBJ4J-1)
+
+## Sprint 1
+
+All Sprint 1 deliverables are available on our private Confluence space. Click on the hyperlinks to see them.
+- [Sprint 1 Testing Plan & Worksheet](https://jordonhong.atlassian.net/wiki/spaces/qdog/folder/18808835?atlOrigin=eyJpIjoiNTNmNzBkYjU1MTg2NGZlYWE4MDM2ZTcwNzE3YmI1ODgiLCJwIjoiYyJ9)
